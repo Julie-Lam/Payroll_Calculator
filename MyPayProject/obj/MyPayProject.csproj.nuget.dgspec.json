@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lamju\\OneDrive\\Cert IV Programming\\Payal's Classes\\Programming I & II\\Programming Project Assessment(DUP)\\Part 3 - Develop the Application\\MyPaySolution\\MyPayProject\\MyPayProject.csproj": {}
+    "C:\\Users\\lamju\\Documents\\GitHub\\Payroll_Calculator\\MyPayProject\\MyPayProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lamju\\OneDrive\\Cert IV Programming\\Payal's Classes\\Programming I & II\\Programming Project Assessment(DUP)\\Part 3 - Develop the Application\\MyPaySolution\\MyPayProject\\MyPayProject.csproj": {
+    "C:\\Users\\lamju\\Documents\\GitHub\\Payroll_Calculator\\MyPayProject\\MyPayProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lamju\\OneDrive\\Cert IV Programming\\Payal's Classes\\Programming I & II\\Programming Project Assessment(DUP)\\Part 3 - Develop the Application\\MyPaySolution\\MyPayProject\\MyPayProject.csproj",
+        "projectUniqueName": "C:\\Users\\lamju\\Documents\\GitHub\\Payroll_Calculator\\MyPayProject\\MyPayProject.csproj",
         "projectName": "MyPayProject",
-        "projectPath": "C:\\Users\\lamju\\OneDrive\\Cert IV Programming\\Payal's Classes\\Programming I & II\\Programming Project Assessment(DUP)\\Part 3 - Develop the Application\\MyPaySolution\\MyPayProject\\MyPayProject.csproj",
+        "projectPath": "C:\\Users\\lamju\\Documents\\GitHub\\Payroll_Calculator\\MyPayProject\\MyPayProject.csproj",
         "packagesPath": "C:\\Users\\lamju\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lamju\\OneDrive\\Cert IV Programming\\Payal's Classes\\Programming I & II\\Programming Project Assessment(DUP)\\Part 3 - Develop the Application\\MyPaySolution\\MyPayProject\\obj\\",
+        "outputPath": "C:\\Users\\lamju\\Documents\\GitHub\\Payroll_Calculator\\MyPayProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\lamju\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

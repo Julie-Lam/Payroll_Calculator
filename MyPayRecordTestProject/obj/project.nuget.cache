@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8rpGUgB8HJ1cNognbg8KwOfWzlETvjDla3SFUAZhGKPZOXdhTjOUykEE4A9SG/CR97+1GnigJDhcGWBFUpbCJA==",
+  "dgSpecHash": "ObsTCorAMkRq5H5hdIgkUy3bIT8mbv+iy9hYvAmBMNcSPLWXzmivuYj0WZDInEndffN7TnzylZTAc0hPai2TyA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lamju\\OneDrive\\Cert IV Programming\\Payal's Classes\\Programming I & II\\Programming Project Assessment(DUP)\\Part 3 - Develop the Application\\MyPaySolution\\MyPayRecordTestProject\\MyPayRecordTestProject.csproj",
+  "projectFilePath": "C:\\Users\\lamju\\Documents\\GitHub\\Payroll_Calculator\\MyPayRecordTestProject\\MyPayRecordTestProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lamju\\.nuget\\packages\\csvhelper\\15.0.6\\csvhelper.15.0.6.nupkg.sha512",
     "C:\\Users\\lamju\\.nuget\\packages\\microsoft.codecoverage\\16.4.0\\microsoft.codecoverage.16.4.0.nupkg.sha512",
@@ -18,7 +18,7 @@
     "C:\\Users\\lamju\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
     "C:\\Users\\lamju\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
     "C:\\Users\\lamju\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
     "C:\\Users\\lamju\\.nuget\\packages\\nunit3testadapter\\3.15.1\\nunit3testadapter.3.15.1.nupkg.sha512",
     "C:\\Users\\lamju\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\lamju\\.nuget\\packages\\system.appcontext\\4.1.0\\system.appcontext.4.1.0.nupkg.sha512",

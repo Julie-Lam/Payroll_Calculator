@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UMtcHldTbJUWCMjVc/U3FllWu0IeWeP8gF/Ezoxdx0AEFNEQURAwbEYiPWcfXJzxw6uoO5f75//PY6JnH/1SkA==",
+  "dgSpecHash": "/2sZE75Tzh3Pw3u21SV6tT7p8kHV8xIpIurG88Z5UtLilEyoCFzvrGevjg9fnmwt6dje3TNtpMkbv9vKf0CdVw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lamju\\OneDrive\\Cert IV Programming\\Payal's Classes\\Programming I & II\\Programming Project Assessment(DUP)\\Part 3 - Develop the Application\\MyPaySolution\\MyPayProject\\MyPayProject.csproj",
+  "projectFilePath": "C:\\Users\\lamju\\Documents\\GitHub\\Payroll_Calculator\\MyPayProject\\MyPayProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lamju\\.nuget\\packages\\csvhelper\\15.0.6\\csvhelper.15.0.6.nupkg.sha512",
     "C:\\Users\\lamju\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512"

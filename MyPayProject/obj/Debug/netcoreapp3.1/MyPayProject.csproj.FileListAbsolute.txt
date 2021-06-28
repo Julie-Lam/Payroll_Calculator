@@ -43,3 +43,19 @@ C:\Users\lamju\OneDrive\Cert IV Programming\Payal's Classes\Programming I & II\P
 C:\Users\lamju\OneDrive\Cert IV Programming\Payal's Classes\Programming I & II\Programming Project Assessment\Part 3 - Develop the Application\MyPaySolution\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.dll
 C:\Users\lamju\OneDrive\Cert IV Programming\Payal's Classes\Programming I & II\Programming Project Assessment\Part 3 - Develop the Application\MyPaySolution\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.pdb
 C:\Users\lamju\OneDrive\Cert IV Programming\Payal's Classes\Programming I & II\Programming Project Assessment\Part 3 - Develop the Application\MyPaySolution\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.genruntimeconfig.cache
+C:\Users\lamju\Documents\GitHub\Payroll_Calculator\MyPayProject\bin\Debug\netcoreapp3.1\MyPayProject.exe
+C:\Users\lamju\Documents\GitHub\Payroll_Calculator\MyPayProject\bin\Debug\netcoreapp3.1\MyPayProject.deps.json
+C:\Users\lamju\Documents\GitHub\Payroll_Calculator\MyPayProject\bin\Debug\netcoreapp3.1\MyPayProject.runtimeconfig.json
+C:\Users\lamju\Documents\GitHub\Payroll_Calculator\MyPayProject\bin\Debug\netcoreapp3.1\MyPayProject.runtimeconfig.dev.json
+C:\Users\lamju\Documents\GitHub\Payroll_Calculator\MyPayProject\bin\Debug\netcoreapp3.1\MyPayProject.dll
+C:\Users\lamju\Documents\GitHub\Payroll_Calculator\MyPayProject\bin\Debug\netcoreapp3.1\MyPayProject.pdb
+C:\Users\lamju\Documents\GitHub\Payroll_Calculator\MyPayProject\bin\Debug\netcoreapp3.1\MyPayProject.xml
+C:\Users\lamju\Documents\GitHub\Payroll_Calculator\MyPayProject\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\lamju\Documents\GitHub\Payroll_Calculator\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.csproj.AssemblyReference.cache
+C:\Users\lamju\Documents\GitHub\Payroll_Calculator\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.AssemblyInfoInputs.cache
+C:\Users\lamju\Documents\GitHub\Payroll_Calculator\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.AssemblyInfo.cs
+C:\Users\lamju\Documents\GitHub\Payroll_Calculator\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.csproj.CoreCompileInputs.cache
+C:\Users\lamju\Documents\GitHub\Payroll_Calculator\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.csproj.CopyComplete
+C:\Users\lamju\Documents\GitHub\Payroll_Calculator\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.dll
+C:\Users\lamju\Documents\GitHub\Payroll_Calculator\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.pdb
+C:\Users\lamju\Documents\GitHub\Payroll_Calculator\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.genruntimeconfig.cache
