@@ -25,7 +25,9 @@ namespace MyPayProject
             List<PayRecord> payRecords = new List<PayRecord>();
             payRecords = CsvImporter.ImportPayRecords(fileName);
 
-            PayRecordWriter.Write(payRecords, true);  
+            PayRecordWriter.Write(payRecords, true);
+
+            Console.ReadKey();
 
         }
     }
